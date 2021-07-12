@@ -5,6 +5,9 @@
 <a href="https://www.linkedin.com/in/sethunagakarthik-m-b32639ba/">
   <img align="left" alt="Sethu's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+<a href="mailto: m.sethukarthik@gmail.com">
+  <img align="left" alt="SethuNagaKarthik's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://www.facebook.com/sethu.karthik">
   <img align="left" alt="Sethu's Facebook" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/facebook.svg" />
 </a>
