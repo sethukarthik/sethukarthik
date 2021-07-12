@@ -24,13 +24,16 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
@@ -50,3 +53,9 @@ HTML         5 mins          ░░░░░░░░░░░░░░░░░
 ✅  Completed basic concepts in Java so far           
 ⏳  Longest streak is 0 days
 <!-- TODO-IST:END -->
+<a href="https://github.com/sethukarthik">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sethukarthik&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="SethuNagaKarthik's github stats" />
+</a>
+<a href="https://github.com/sethukarthik">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethukarthik&layout=compact&hide_border=true&hide=Jupyter%20Notebook,Tex&langs_count=8&theme=tokyonight" />
+</a>
